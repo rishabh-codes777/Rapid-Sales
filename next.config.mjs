@@ -14,6 +14,12 @@ const nextConfig = {
             port: '',
             
           },
+          {
+            protocol: 'https',
+            hostname: 'www.freepik.com',
+            port: '',
+            
+          },
         ],
     },
 };
